@@ -1,0 +1,151 @@
+{
+  "id": "root",
+  "title": "Vitamins in Human Body",
+  "summary": "Vitamins are organic micronutrients that play a vital role in maintaining normal metabolic processes, supporting growth and development, and preserving overall health. Although required only in small quantities, vitamins are indispensable for enzyme function, immune defense, tissue repair, and cellular communication. The human body cannot synthesize most vitamins in sufficient amounts, making dietary intake essential. Adequate vitamin consumption helps prevent deficiency-related disorders, supports long-term well-being, and enhances resistance to infections and chronic diseases.",
+  "children": [
+    {
+      "id": "classification",
+      "title": "Vitamin Classification",
+      "summary": "Vitamins are broadly classified based on their solubility characteristics, which directly influence how they are absorbed, transported, stored, and eliminated in the body. This classification helps in understanding dietary requirements, potential risks of deficiency, and the likelihood of toxicity. The two primary categories—fat-soluble and water-soluble vitamins—differ significantly in their physiological behavior and nutritional management.",
+      "children": [
+        {
+          "id": "fat-soluble",
+          "title": "Fat-Soluble Vitamins",
+          "summary": "Fat-soluble vitamins dissolve in dietary fats and are absorbed along with lipids in the digestive tract. They are primarily stored in the liver and adipose tissues, allowing the body to retain them for extended periods. While this storage capability reduces the risk of frequent deficiency, excessive intake can lead to toxicity. Proper regulation of fat-soluble vitamin intake is therefore crucial for maintaining health.",
+          "children": [
+            {
+              "id": "vitamin-a",
+              "title": "Vitamin A",
+              "summary": "Vitamin A is essential for maintaining healthy vision, particularly in low-light conditions, and plays a critical role in immune system function and skin integrity. It supports cellular growth, differentiation, and the maintenance of epithelial tissues. Deficiency can result in night blindness, increased susceptibility to infections, and skin disorders."
+            },
+            {
+              "id": "vitamin-d",
+              "title": "Vitamin D",
+              "summary": "Vitamin D is vital for calcium and phosphorus absorption, promoting strong bones and teeth. It also contributes to muscle function and immune regulation. Insufficient vitamin D levels can cause rickets in children and osteomalacia or osteoporosis in adults, increasing the risk of fractures and skeletal deformities."
+            },
+            {
+              "id": "vitamin-e",
+              "title": "Vitamin E",
+              "summary": "Vitamin E functions primarily as a powerful antioxidant, protecting cell membranes from oxidative damage caused by free radicals. It supports immune health and helps maintain skin and eye health. Adequate intake contributes to reduced oxidative stress and cellular aging."
+            },
+            {
+              "id": "vitamin-k",
+              "title": "Vitamin K",
+              "summary": "Vitamin K is essential for normal blood clotting and plays a significant role in bone metabolism. It activates proteins required for coagulation and helps regulate calcium deposition in bones and blood vessels. Deficiency can lead to excessive bleeding and impaired bone strength."
+            }
+          ]
+        },
+        {
+          "id": "water-soluble",
+          "title": "Water-Soluble Vitamins",
+          "summary": "Water-soluble vitamins dissolve in water and are readily absorbed into the bloodstream. Unlike fat-soluble vitamins, they are not stored in large amounts and excess quantities are excreted through urine. This makes regular dietary intake necessary to maintain adequate levels and prevent deficiency.",
+          "children": [
+            {
+              "id": "vitamin-c",
+              "title": "Vitamin C",
+              "summary": "Vitamin C is crucial for collagen synthesis, which is necessary for wound healing, skin health, and connective tissue maintenance. It also acts as an antioxidant and supports immune defense mechanisms. Prolonged deficiency leads to scurvy, characterized by fatigue, bleeding gums, and impaired healing."
+            },
+            {
+              "id": "vitamin-b-complex",
+              "title": "Vitamin B-Complex",
+              "summary": "The vitamin B-complex consists of several related vitamins that work together to support energy metabolism, nervous system function, and red blood cell production. These vitamins are essential for converting food into energy and maintaining proper brain and muscle function.",
+              "children": [
+                {
+                  "id": "vitamin-b1",
+                  "title": "Vitamin B1 (Thiamine)",
+                  "summary": "Vitamin B1 plays a key role in carbohydrate metabolism and nerve signal transmission. It supports proper heart and muscle function. Deficiency may result in fatigue, muscle weakness, and neurological disorders such as beriberi."
+                },
+                {
+                  "id": "vitamin-b2",
+                  "title": "Vitamin B2 (Riboflavin)",
+                  "summary": "Vitamin B2 is involved in energy production and cellular growth. It helps maintain healthy skin, eyes, and nervous system function. Deficiency can cause skin inflammation, cracked lips, and sensitivity to light."
+                },
+                {
+                  "id": "vitamin-b12",
+                  "title": "Vitamin B12",
+                  "summary": "Vitamin B12 is essential for DNA synthesis, red blood cell formation, and neurological health. It supports cognitive function and nerve integrity. Deficiency can lead to anemia, fatigue, and irreversible nerve damage if left untreated."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dietary-sources",
+      "title": "Dietary Sources",
+      "summary": "Vitamins are obtained from a diverse range of foods, including both plant-based and animal-based sources. A balanced diet incorporating various food groups is essential to ensure adequate intake of all vitamins. Dietary diversity helps prevent nutritional deficiencies and supports overall health.",
+      "children": [
+        {
+          "id": "fruits-vegetables",
+          "title": "Fruits & Vegetables",
+          "summary": "Fruits and vegetables are rich sources of vitamin C, folate, and carotenoids. They also provide dietary fiber and antioxidants that support immune health and reduce the risk of chronic diseases."
+        },
+        {
+          "id": "dairy-products",
+          "title": "Dairy Products",
+          "summary": "Dairy products supply essential vitamins such as vitamin D, vitamin A, and riboflavin. They also contribute calcium and protein, which are important for bone strength and muscle health."
+        },
+        {
+          "id": "meat-fish",
+          "title": "Meat & Fish",
+          "summary": "Meat and fish are primary sources of vitamin B12, niacin, and vitamin D. These foods provide high-quality protein and essential fatty acids that support brain and cardiovascular health."
+        },
+        {
+          "id": "grains-nuts",
+          "title": "Whole Grains & Nuts",
+          "summary": "Whole grains and nuts contain B vitamins, vitamin E, and essential minerals. They support energy metabolism, antioxidant protection, and overall cardiovascular health."
+        }
+      ]
+    },
+    {
+      "id": "key-roles",
+      "title": "Key Bodily Roles",
+      "summary": "Vitamins are involved in a wide range of physiological processes that are critical for survival and optimal functioning. They support metabolic pathways, immune defense, tissue repair, and maintenance of structural integrity across various organ systems.",
+      "children": [
+        {
+          "id": "energy-metabolism",
+          "title": "Energy Metabolism",
+          "summary": "B vitamins function as coenzymes in metabolic reactions that convert carbohydrates, fats, and proteins into usable energy. Adequate intake ensures efficient energy production and reduced fatigue."
+        },
+        {
+          "id": "immune-support",
+          "title": "Immune System Support",
+          "summary": "Vitamins A, C, and D enhance immune cell activity, support antibody production, and strengthen the body’s defense against infections and pathogens."
+        },
+        {
+          "id": "bone-health",
+          "title": "Bone Health",
+          "summary": "Vitamins D and K play essential roles in calcium absorption, bone mineralization, and skeletal maintenance, helping prevent fractures and bone-related disorders."
+        },
+        {
+          "id": "cellular-repair",
+          "title": "Cellular Repair",
+          "summary": "Vitamins contribute to DNA synthesis, tissue regeneration, and antioxidant defense, protecting cells from damage and supporting long-term cellular health."
+        }
+      ]
+    },
+    {
+      "id": "health-impact",
+      "title": "Health Impact & Balance",
+      "summary": "Maintaining an appropriate balance of vitamins is crucial, as both deficiency and excessive intake can result in adverse health effects. Understanding recommended intake levels helps prevent nutritional disorders and promotes sustained well-being.",
+      "children": [
+        {
+          "id": "deficiency",
+          "title": "Vitamin Deficiency",
+          "summary": "Insufficient vitamin intake can lead to serious health conditions such as scurvy, rickets, anemia, impaired immunity, and delayed wound healing, affecting quality of life."
+        },
+        {
+          "id": "toxicity",
+          "title": "Vitamin Toxicity",
+          "summary": "Excessive intake, particularly of fat-soluble vitamins, may cause toxicity, leading to symptoms such as liver damage, nausea, and neurological complications."
+        },
+        {
+          "id": "recommended-intake",
+          "title": "Recommended Intake",
+          "summary": "Daily vitamin requirements vary based on age, gender, health status, and physiological conditions. Following dietary guidelines helps ensure optimal intake without risking deficiency or toxicity."
+        }
+      ]
+    }
+  ]
+}
